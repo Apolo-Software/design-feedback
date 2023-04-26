@@ -1,0 +1,26 @@
+@media (min-width: 350px) and (max-width: 480px) {
+  .home-header-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .lens {
+    color: #424CA8;
+  }
+
+  .logo-and-near {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 18px;
+  }
+
+  .logo {
+    width: 120px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+}

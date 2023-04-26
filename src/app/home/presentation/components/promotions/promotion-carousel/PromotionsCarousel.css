@@ -1,0 +1,15 @@
+@media (min-width: 350px) and (max-width: 480px) {
+  .carousel-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .card-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,30 @@
+@media (min-width: 350px) and (max-width: 480px) {
+  .footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    width: 100%;
+  }
+
+  .boxes {
+    background-color: #cbe6ee;
+    border-radius: 10px;
+    width: 50%;
+    height: 40px;
+  }
+
+  .view-agenda-box {
+    border: solid 1px red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .giftcard-box {
+    border: solid 1px red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

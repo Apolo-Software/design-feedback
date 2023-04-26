@@ -1,0 +1,36 @@
+@media (min-width: 350px) and (max-width: 480px) {
+  .partnerList-header-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .partner-list-lens {
+    color: #424CA8;
+  }
+
+  .partner-list-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+
+  .partner-list-logo-img {
+    width: 120px;
+    height: auto;
+  }
+
+  .partner-list-back-button {
+    width: 39px;
+    height: 39px;
+    border-radius: 15px;
+    margin-right: 15px;
+    backdrop-filter: blur(5px);
+    /* Fallback color */
+    background-color: #cbe6ee;
+    /* Black w/opacity/see-through */
+    color: #424CA8;
+  }
+
+}

@@ -1,0 +1,8 @@
+.tags-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.sell-icon {
+  color: #424CA8;
+}
